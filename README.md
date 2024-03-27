@@ -1,7 +1,6 @@
 
 # Olá Pessoal! 👋
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilectus-a-Deo&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilectus-a-Deo&show_icons=true&theme=radical)
 ### Linguagens
  <div style="display: inline_block"><br/><br/> 
 <img align="center alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
