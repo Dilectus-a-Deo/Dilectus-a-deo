@@ -1,12 +1,12 @@
 # Heyy Guyss! 👋
 <table border="0">
  <tr>
-    <td><b style="font-size:font-size:15px">Portfolio
+    <td><b style="font-size:font-size:15px">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilectus-a-Deo&show_icons=true&theme=radical)
     
 </b></td>
-    <td><b style="font-size:15px">Grafh 
+    <td><b style="font-size:15px">
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilectus-a-Deo&layout=compact)
 </b></td>
