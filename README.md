@@ -1,6 +1,23 @@
+# Heyy Guyss! 👋
+<table border="0">
+ <tr>
+    <td><b style="font-size:font-size:15px">Portfolio
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilectus-a-Deo&show_icons=true&theme=radical)
+    
+</b></td>
+    <td><b style="font-size:15px">Grafh 
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilectus-a-Deo&layout=compact)
+</b></td>
+ </tr>
+ <tr>
+    
+ </tr>
+</table>
 
-# Olá Pessoal! 👋
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilectus-a-Deo&show_icons=true&theme=radical)
+
+
 ## Linguagens
  <div style="display: inline_block"><br/><br/> 
 <img align="center alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
